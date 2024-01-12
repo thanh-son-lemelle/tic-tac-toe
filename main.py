@@ -1,6 +1,5 @@
 import os
 import pygame as pg
-import ia
 
 
 symbole_j_1 = 1
